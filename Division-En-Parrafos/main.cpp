@@ -1,3 +1,4 @@
+// O(n)
 #include <bits/stdc++.h>
 using namespace std;
 void getLengthOfWordArr(string *wordArr, int *lengthOfWordArr, int n) {
