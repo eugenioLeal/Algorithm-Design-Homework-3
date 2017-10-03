@@ -1,7 +1,0 @@
-C:\Users\eugenioLeal\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Documents\semestreAgosto2017-Algo-BDatos-VideoJ\Algoritmos\Algorithm-Design-Homework-3\Subsecuencia-Comun-Maxima\main.cpp: In function 'int main(int, const char**)':
-C:\Users\eugenioLeal\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Documents\semestreAgosto2017-Algo-BDatos-VideoJ\Algoritmos\Algorithm-Design-Homework-3\Subsecuencia-Comun-Maxima\main.cpp:24:3: error: expected ',' or ';' before 'int'
-   int n1 = sizeof(sequence1) / sizeof(sequence1[0]);
-   ^
-C:\Users\eugenioLeal\OneDrive - Instituto Tecnologico y de Estudios Superiores de Monterrey\Documents\semestreAgosto2017-Algo-BDatos-VideoJ\Algoritmos\Algorithm-Design-Homework-3\Subsecuencia-Comun-Maxima\main.cpp:26:3: error: expected ',' or ';' before 'int'
-   int n2 = sizeof(sequence2) / sizeof(sequence2[0]);
-   ^
